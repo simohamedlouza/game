@@ -14,10 +14,7 @@ body{
 
    
 }
- .formu{
-    display: flex;
-    flex-wrap: wrap;
- }
+
 .nav1>ul>li{
     float: left;
     margin: 10px;

@@ -14,7 +14,6 @@ body{
 
    
 }
-
 .nav1>ul>li{
     float: left;
     margin: 10px;
@@ -544,6 +543,10 @@ select, input {
         height:70px;
 }
 } */
+ /* .formu{
+    display: flex;
+    flex-wrap: wrap;
+ } */
 
 
 

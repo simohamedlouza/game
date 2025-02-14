@@ -4,7 +4,6 @@
     perspective: 5000px;
     cursor: url(image/new.png), auto; 
 }
-
 body{
     perspective: 1000px;
     font-family: Arial, sans-serif;
@@ -104,8 +103,10 @@ textarea:focus {
 
 }
 
+
 .navv{
     box-shadow: 2px 2px 3px black;
+   
 }
 h1{
     text-shadow: 2px 4px 3px black;
@@ -490,6 +491,63 @@ select, input {
 .card{
     padding: 0;
 }
+/* @media screen and (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+
+    .nav1 > ul {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .nav1 > ul > li {
+        margin: 5px 0;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    .formu {
+        width: 90%;
+        margin: 50px auto;
+        padding: 20px;
+    }
+
+    .card img {
+        height: 150px;
+    }
+
+    .news {
+        width: 100%;
+    }
+
+    .game-slider img {
+        width: 120px;
+        height: 80px;
+    }
+}
+@media screen and (max-width: 480px) {
+    h1 {
+        font-size: 1.8em;
+    }
+
+    .formu {
+        width: 95%;
+        padding: 15px;
+    }
+
+    .game-slider img {
+        width: 100px;
+        height:70px;
+}
+} */
+
+
+
+
+
 
 
 

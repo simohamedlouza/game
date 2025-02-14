@@ -4,10 +4,7 @@
     perspective: 5000px;
     cursor: url(image/new.png), auto; 
 }
-.all{
-    display: flex;
-    flex-wrap: wrap;
-}
+
 body{
     perspective: 1000px;
     font-family: Arial, sans-serif;
